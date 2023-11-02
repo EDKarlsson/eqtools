@@ -39,3 +39,8 @@ sudo pacman -S --needed \
     librsvg \
     libvips -y
 ```
+
+## References
+
+- [OpenMultiBoxing](https://openmultiboxing.org/)
+- [ISBoxer](https://isboxer.com/)
