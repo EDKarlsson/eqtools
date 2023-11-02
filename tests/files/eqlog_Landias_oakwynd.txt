@@ -1,0 +1,125 @@
+[Wed Nov 01 22:18:48 2023] Logging to 'eqlog.txt' is now *ON*.
+[Wed Nov 01 22:18:55 2023] Rizt tells General2:2, '26 rog lfg ToFS'
+[Wed Nov 01 22:19:16 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:19:16 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:19:31 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:19:31 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:20:19 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:20:19 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:21:06 2023] Steelpanther tells General2:2, 'velks ent LF1M'
+[Wed Nov 01 22:21:12 2023] Rizt tells General2:2, '26 rog lfg ToFS'
+[Wed Nov 01 22:21:58 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:21:58 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:22:11 2023] You begin casting Burst of Flame.
+[Wed Nov 01 22:22:11 2023] You are no longer auto-following Aaden.
+[Wed Nov 01 22:22:12 2023] You can't use that command while casting...
+[Wed Nov 01 22:22:12 2023] Your Burst of Flame spell is interrupted.
+[Wed Nov 01 22:22:22 2023] Targeted (Player): Aaden
+[Wed Nov 01 22:22:22 2023] Stand close to and right click on the Player to consider and inspect him. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:22:29 2023] Rizt tells General2:2, '26 rog lfg ToFS'
+[Wed Nov 01 22:22:40 2023] Aaden is now group Main Tank
+[Wed Nov 01 22:22:53 2023] Landias is now group Main Assist
+[Wed Nov 01 22:23:00 2023] Landias is no longer group Main Assist
+[Wed Nov 01 22:23:00 2023] Saibrina is now group Main Assist
+[Wed Nov 01 22:23:04 2023] Aaden is no longer group Main Tank
+[Wed Nov 01 22:23:04 2023] Saibrina is now group Main Tank
+[Wed Nov 01 22:23:09 2023] Saibrina is no longer group Main Tank
+[Wed Nov 01 22:23:09 2023] Aaden is now group Main Tank
+[Wed Nov 01 22:23:50 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:23:50 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:23:54 2023] I don't see anyone by that name around here...
+[Wed Nov 01 22:24:02 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:24:02 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:24:50 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:24:50 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:24:56 2023] Yanu tells Faydwer:4, '10 shaman lfg'
+[Wed Nov 01 22:25:02 2023] Rizt tells General2:2, '26 rog lfg ToFS'
+[Wed Nov 01 22:25:11 2023] The light breeze fades.
+[Wed Nov 01 22:26:47 2023] Rizt tells General2:2, '26 rog lfg ToFS'
+[Wed Nov 01 22:27:06 2023] Rizski tells General2:2, 'LVL59 SHM LFG'
+[Wed Nov 01 22:27:27 2023] Merchant Iludarae says, 'Welcome to my shop, Gigga. You would probably find a Worn Great Staff handy.'
+[Wed Nov 01 22:28:17 2023] You say, 'hello'
+[Wed Nov 01 22:29:29 2023] Gundam tells General2:2, 'anyone with 4th floor access in tower of shadow want to join our group working on the 5th key?'
+[Wed Nov 01 22:29:35 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:29:35 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:29:35 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:29:38 2023] A decaying skeleton punches Nuluven for 1 point of damage.
+[Wed Nov 01 22:29:39 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:29:41 2023] A decaying skeleton punches Nuluven for 2 points of damage.
+[Wed Nov 01 22:29:42 2023] You say, 'hello'
+[Wed Nov 01 22:29:42 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:29:44 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:29:44 2023] A decaying skeleton punches Nuluven for 2 points of damage.
+[Wed Nov 01 22:29:44 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:29:46 2023] A decaying skeleton tries to punch Nuluven, but misses! (Riposte)
+[Wed Nov 01 22:29:47 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:29:49 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:29:50 2023] A decaying skeleton punches Nuluven for 1 point of damage.
+[Wed Nov 01 22:29:52 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:29:53 2023] A decaying skeleton tries to punch Nuluven, but misses! (Riposte)
+[Wed Nov 01 22:29:53 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:29:56 2023] Nuluven slashes a decaying skeleton for 6 points of damage.
+[Wed Nov 01 22:29:56 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:29:59 2023] A decaying skeleton punches Nuluven for 2 points of damage.
+[Wed Nov 01 22:30:00 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:30:00 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:30:02 2023] A decaying skeleton punches Nuluven for 2 points of damage.
+[Wed Nov 01 22:30:03 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:30:05 2023] A decaying skeleton punches Nuluven for 3 points of damage.
+[Wed Nov 01 22:30:07 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:30:08 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:30:08 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:30:10 2023] Nuluven slashes a decaying skeleton for 5 points of damage.
+[Wed Nov 01 22:30:11 2023] A decaying skeleton punches Nuluven for 6 points of damage.
+[Wed Nov 01 22:30:14 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:30:14 2023] A decaying skeleton punches Nuluven for 1 point of damage.
+[Wed Nov 01 22:30:16 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:30:17 2023] Nuluven tries to slash a decaying skeleton, but misses!
+[Wed Nov 01 22:30:17 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:30:20 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:30:21 2023] Nuluven slashes a decaying skeleton for 10 points of damage.
+[Wed Nov 01 22:30:23 2023] A decaying skeleton punches Nuluven for 3 points of damage.
+[Wed Nov 01 22:30:24 2023] Nuluven slashes a decaying skeleton for 2 points of damage.
+[Wed Nov 01 22:30:24 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:30:26 2023] A decaying skeleton punches Nuluven for 4 points of damage.
+[Wed Nov 01 22:30:28 2023] Nuluven slashes a decaying skeleton for 2 points of damage.
+[Wed Nov 01 22:30:28 2023] A decaying skeleton has been slain by Nuluven!
+[Wed Nov 01 22:30:28 2023] Rizt tells General2:2, '26 rog lfg ToFS'
+[Wed Nov 01 22:30:37 2023] That is not a valid command.  Please use /help.
+[Wed Nov 01 22:30:44 2023] Landias's birthdate: Monday, October 30, 2023 17:42:35.
+[Wed Nov 01 22:30:44 2023] Landias's age: 0 years (Earth time). 0 years (Norrathian time).
+[Wed Nov 01 22:30:44 2023] Total time playing Landias: 11 hours and 1 minute
+[Wed Nov 01 22:30:44 2023] This session: 4 hours, 59 minutes, and 28 seconds
+[Wed Nov 01 22:30:44 2023] Your total time entitled on this account is approximately 18 years, 203 days.
+[Wed Nov 01 22:30:59 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:30:59 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:33:06 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:33:06 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:33:10 2023] You tell your party, 'hey'
+[Wed Nov 01 22:33:27 2023] You tell your party, 'hey'
+[Wed Nov 01 22:33:35 2023] You say, 'dsa'
+[Wed Nov 01 22:33:38 2023] You tell your party, 'dsa'
+[Wed Nov 01 22:33:59 2023] A decaying skeleton clatters as it turns towards you.
+[Wed Nov 01 22:33:59 2023] Nuluven tries to kick a decaying skeleton, but misses!
+[Wed Nov 01 22:33:59 2023] Nuluven slashes a decaying skeleton for 2 points of damage.
+[Wed Nov 01 22:33:59 2023] A decaying skeleton punches Nuluven for 3 points of damage.
+[Wed Nov 01 22:34:02 2023] A decaying skeleton punches Nuluven for 1 point of damage.
+[Wed Nov 01 22:34:02 2023] Nuluven slashes a decaying skeleton for 1 point of damage.
+[Wed Nov 01 22:34:05 2023] A decaying skeleton punches Nuluven for 5 points of damage.
+[Wed Nov 01 22:34:06 2023] Nuluven slashes a decaying skeleton for 8 points of damage.
+[Wed Nov 01 22:34:07 2023] Nuluven kicks a decaying skeleton for 1 point of damage.
+[Wed Nov 01 22:34:08 2023] A decaying skeleton tries to punch Nuluven, but misses!
+[Wed Nov 01 22:34:09 2023] Nuluven slashes a decaying skeleton for 6 points of damage.
+[Wed Nov 01 22:34:11 2023] A decaying skeleton punches Nuluven for 1 point of damage.
+[Wed Nov 01 22:34:13 2023] Nuluven slashes a decaying skeleton for 4 points of damage.
+[Wed Nov 01 22:34:13 2023] A decaying skeleton's corpse splinters into hundreds of tiny bone fragments.
+[Wed Nov 01 22:34:13 2023] A decaying skeleton has been slain by Nuluven!
+[Wed Nov 01 22:34:15 2023] Targeted (Player): Saibrina
+[Wed Nov 01 22:34:15 2023] Stand close to and right click on the Player to consider and inspect her. Use the /toggleinspect command to enable or disable right-click inspecting.
+[Wed Nov 01 22:34:20 2023] You no longer have a target.
+[Wed Nov 01 22:34:29 2023] It will take you about 30 seconds to prepare your camp.
+[Wed Nov 01 22:34:33 2023] It will take about 25 more seconds to prepare your camp.
+[Wed Nov 01 22:34:38 2023] It will take about 20 more seconds to prepare your camp.
+[Wed Nov 01 22:34:43 2023] It will take about 15 more seconds to prepare your camp.
+[Wed Nov 01 22:34:48 2023] It will take about 10 more seconds to prepare your camp.
+[Wed Nov 01 22:34:53 2023] It will take about 5 more seconds to prepare your camp.
