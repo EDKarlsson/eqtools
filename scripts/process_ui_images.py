@@ -9,12 +9,6 @@ img_dir = f"{project_root}/img"
 grouped_dir = f"{img_dir}/grouped"
 individual_dir = f"{img_dir}/individual"
 
-# gems = f"{img_dir}/gems"
-# spells = f"{img_dir}/spells"
-# items = f"{img_dir}/items"
-
-
-# print(im.format, im.size, im.mode)
 PIXELS = 40
 
 
@@ -45,11 +39,13 @@ def process_one(image_file_name: str, file_prefix: str, outdir: str):
     for i, image in enumerate(images):
         image.save(f"{outdir}/{file_prefix}_{i}.png")
 
+
 def example():
     file_group = f"{individual_dir}/spells/group01"
     if not os.path.isdir(file_group):
         os.mkdir(file_group)
     process_one(f"{grouped_dir}/spells/Spells01.png", "spell", file_group)
+
 
 if __name__ == "__main__":
     process_all_files()

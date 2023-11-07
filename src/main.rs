@@ -1,6 +1,7 @@
 mod macros;
 mod events;
+mod server;
 
 fn main() {
-    println!("Hello, world!");
+    server::serve::start_server();
 }
