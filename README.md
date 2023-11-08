@@ -3,6 +3,20 @@
 
 ## Dependencies
 
+### Enigo
+
+#### Debian
+
+```shell
+apt-get install libxdo-dev
+```
+
+#### Arch
+
+```shell
+pacman -S xdotool
+```
+
 ### Tauri
 
 - [Tauri Deps](https://tauri.app/v1/guides/getting-started/prerequisites)

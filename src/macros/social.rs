@@ -15,14 +15,14 @@ Page2Button3Line1=/pause 5, /assist Aaden
 Page2Button3Line2=/pause 10, /cast 3
  */
 
-struct SocialMacro {
+pub struct SocialMacro {
     name: String,
     color: i16,
     lines: [String; 5],
 }
 
 impl SocialMacro {
-    fn new(name: &String, color: i16, lines: [String; 5]) -> SocialMacro {
+    pub fn new(name: &String, color: i16, lines: [String; 5]) -> SocialMacro {
         return SocialMacro {
             name: name.parse().unwrap(),
             color,
