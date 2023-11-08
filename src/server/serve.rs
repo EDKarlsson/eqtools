@@ -8,6 +8,7 @@ pub fn start_server(){
 
     for stream in listener.incoming() {
         let stream = stream.unwrap();
+        println!("Peer Addr: {:#?}",stream.peer_addr());
         handle_connection(stream);
     }
 }
@@ -19,5 +20,12 @@ fn handle_connection(mut stream: TcpStream) {
         .map(|result| result.unwrap())
         .take_while(|line| !line.is_empty())
         .collect();
+    println!("Request: {:#?}", http_request);
+    let res = stream.write("Hello back".as_ref()).expect("TODO: panic message");
+    println!("Response: {:#?}", res)
+}
+
+fn handle_request(http_request: Vec<String> ){
+
     println!("Request: {:#?}", http_request);
 }

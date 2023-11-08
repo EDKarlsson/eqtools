@@ -5,6 +5,6 @@ mod server;
 mod client;
 
 fn main() {
-    // server::serve::start_server();
-    events::keyboard::main();
+    server::serve::start_server();
+    // events::keyboard::main();
 }
