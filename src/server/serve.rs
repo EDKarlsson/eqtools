@@ -10,6 +10,7 @@ pub fn start_server() {
         let stream = stream.unwrap();
         println!("Peer Addr: {:#?}", stream.peer_addr());
         handle_connection(stream).expect("Unhandled");
+        println!("Hello...");
     }
 }
 
