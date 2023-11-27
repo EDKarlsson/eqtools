@@ -25,7 +25,7 @@ What do I want the bots to do?
 - Heal
 - Cast spells
 - DPS
-- Remove debuggs
+- Remove debuffs
 - Report Health/Mana
 - Share location information
 - Automated movement/following
@@ -55,4 +55,4 @@ Tool features?
 1. Buffing/Memorize Spell Sets
 2. Skill Rotation
 3. Healing
-   1. Prioritize healing
+   1. Prioritize healing for lowest hp player
