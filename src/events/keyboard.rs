@@ -1,3 +1,4 @@
+#![allow(unused)]
 use rdev::{listen, Event, simulate, Button, EventType, Key, SimulateError};
 use std::{thread, time};
 
