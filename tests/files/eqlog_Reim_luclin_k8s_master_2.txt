@@ -1,0 +1,460 @@
+[Wed Jan 10 19:42:46 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 19:42:58 2024] Channels: 1=General(381), 2=Druid(22), 3=Planes(202)
+[Wed Jan 10 19:43:03 2024] Welcome to EverQuest!
+[Wed Jan 10 19:43:03 2024] You have entered Guild Lobby.
+[Wed Jan 10 19:43:07 2024] Your original windowed mode resolution for this character could not be determined so you have received the default window layout.  You may use the copy layout window to copy a layout from your original windowed mode resolution or from another character's layout.  If you are using the default skin, the copy layout window will appear automatically.  If you are using a custom UI, the copy layout window may be unavailable.  Type "/copylayout help" for more information.
+[Wed Jan 10 19:43:09 2024] Tenuvio begins casting Rejuvenation of Spirit.
+[Wed Jan 10 19:44:33 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 19:47:18 2024] You can't reach that, get closer.
+[Wed Jan 10 19:47:19 2024] You can't reach that, get closer.
+[Wed Jan 10 19:47:58 2024] Pandey tells General:1, 'WTBuy collectable, from Moors of Nokk = Principle Lessons in Worghandling // pst, paying well'
+[Wed Jan 10 19:48:33 2024] You can't reach that, get closer.
+[Wed Jan 10 19:48:38 2024] Targeted (Player): Reim
+[Wed Jan 10 19:48:38 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 19:49:05 2024] A gingerbread soother begins casting Reviviscence.
+[Wed Jan 10 19:49:12 2024] A gingerbread soother begins casting Benediction of Devotion.
+[Wed Jan 10 19:49:18 2024] A gingerbread soother begins casting Symbol of Helmsbane.
+[Wed Jan 10 19:49:21 2024] Klemmintine is cloaked in a shimmer of holy symbols.
+[Wed Jan 10 19:49:21 2024] a gingerbread soother healed Klemmintine for 23051 hit points by Symbol of Helmsbane.
+[Wed Jan 10 19:49:24 2024] A gingerbread soother begins casting Elixir of Benevolence Rk. II.
+[Wed Jan 10 19:49:27 2024] a gingerbread soother healed itself over time for 14820 hit points by Elixir of Benevolence Rk. II.
+[Wed Jan 10 19:49:29 2024] A gingerbread soother begins casting Word of Acceptance Rk. II.
+[Wed Jan 10 19:49:30 2024] a gingerbread soother healed Klemmintine over time for 8288 (14820) hit points by Elixir of Benevolence Rk. II.
+[Wed Jan 10 19:49:32 2024] a gingerbread soother feels the touch of renewal.
+[Wed Jan 10 19:49:32 2024] a gingerbread soother healed itself for 86870 (170960) hit points by Word of Acceptance Rk. II.
+[Wed Jan 10 19:49:34 2024] A gingerbread soother begins casting Benediction of Devotion.
+[Wed Jan 10 19:49:39 2024] Targeted (Player): Reim
+[Wed Jan 10 19:49:39 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 19:49:40 2024] A gingerbread soother begins casting Commitment.
+[Wed Jan 10 19:49:40 2024] You no longer have a target.
+[Wed Jan 10 19:49:46 2024] Klemmintine's eyes gleam with power.
+[Wed Jan 10 19:49:46 2024] a gingerbread soother healed Klemmintine for 25566 (32205) hit points by Commitment.
+[Wed Jan 10 19:49:48 2024] A gingerbread soother begins casting Greater Aegis of Vie Rk. II.
+[Wed Jan 10 19:52:07 2024] Sawthree begins casting Ancient Bargain.
+[Wed Jan 10 19:52:25 2024] Sawshort begins casting Thaumaturge's Unity XI.
+[Wed Jan 10 19:52:28 2024] Sawthree begins casting Ancient Bargain.
+[Wed Jan 10 19:52:32 2024] Sawshort begins casting Summon Familiar: Striped Badger.
+[Wed Jan 10 19:52:40 2024] Sawshort begins casting Recruitment of Water.
+[Wed Jan 10 19:52:46 2024] Sawthree begins casting Reckless Renewal.
+[Wed Jan 10 19:52:47 2024] Gonanab is healed by another's sacrifice.
+[Wed Jan 10 19:52:47 2024] Sawthree healed Gonanab for 98024 hit points by Reckless Renewal. (Critical)
+[Wed Jan 10 19:52:49 2024] Sawthree begins casting Spiritual Surge.
+[Wed Jan 10 19:52:52 2024] Gonanab is covered in a soft healing light.
+[Wed Jan 10 19:52:52 2024] Sawthree healed Gonanab for 8019 hit points by Spiritual Surge. (Twincast)
+[Wed Jan 10 19:52:52 2024] Sawthree healed Sawshort for 7271 hit points by Spiritual Surge. (Twincast)
+[Wed Jan 10 19:52:52 2024] Sawthree healed Gonanab for 8019 hit points by Spiritual Surge.
+[Wed Jan 10 19:52:52 2024] Sawthree healed Sawshort for 893 (15291) hit points by Spiritual Surge. (Critical)
+[Wed Jan 10 19:52:52 2024] Sawthree begins casting Lupine Spirit IV.
+[Wed Jan 10 19:52:54 2024] Sawshort begins casting Burnout XVI Rk. II.
+[Wed Jan 10 19:52:55 2024] Sawthree healed Gonanab for 7169 hit points by Spiritual Surge. (Twincast)
+[Wed Jan 10 19:52:55 2024] Sawthree healed Gonanab for 7645 hit points by Spiritual Surge.
+[Wed Jan 10 19:52:55 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:52:55 2024] Sawthree healed Gonanab over time for 32214 hit points by Abundant Healing LII. (Critical)
+[Wed Jan 10 19:52:56 2024] Gonanab goes berserk.
+[Wed Jan 10 19:52:58 2024] Sawthree healed Gonanab for 8189 hit points by Spiritual Surge. (Twincast)
+[Wed Jan 10 19:52:58 2024] Sawthree healed Gonanab for 7951 hit points by Spiritual Surge.
+[Wed Jan 10 19:52:58 2024] Dulcet begins singing McVaxius' Rousing Rondo.
+[Wed Jan 10 19:52:59 2024] Gonanab is surrounded by a brief lupine aura.
+[Wed Jan 10 19:52:59 2024] Sawshort is surrounded by a brief lupine aura.
+[Wed Jan 10 19:52:59 2024] Zabaner is surrounded by a brief lupine aura.
+[Wed Jan 10 19:52:59 2024] Gann is surrounded by a brief lupine aura.
+[Wed Jan 10 19:52:59 2024] Booted is surrounded by a brief lupine aura.
+[Wed Jan 10 19:52:59 2024] Sawthree is surrounded by a brief lupine aura.
+[Wed Jan 10 19:52:59 2024] Sawthree begins casting Reckless Renewal.
+[Wed Jan 10 19:53:00 2024] Gonanab is healed by another's sacrifice.
+[Wed Jan 10 19:53:00 2024] Sawthree healed Gonanab for 98024 hit points by Reckless Renewal. (Critical)
+[Wed Jan 10 19:53:01 2024] Sawshort begins casting Valiant Symbiosis.
+[Wed Jan 10 19:53:01 2024] Sawthree healed Gonanab over time for 32214 hit points by Abundant Healing LII. (Critical)
+[Wed Jan 10 19:53:01 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:53:02 2024] Sawthree begins casting Ancient Bargain.
+[Wed Jan 10 19:53:04 2024] Sawshort hit Gonanab for 8948 points of unresistable damage by Valiant Symbiosis.
+[Wed Jan 10 19:53:04 2024] Gonanab staggers as elemental energy is torn away.
+[Wed Jan 10 19:53:04 2024] Sawshort is surrounded in elemental energy.
+[Wed Jan 10 19:53:04 2024] Sawthree winces.
+[Wed Jan 10 19:53:05 2024] Dulcet begins singing McVaxius' Rousing Rondo.
+[Wed Jan 10 19:53:07 2024] Sawthree begins casting Communion of the Cheetah.
+[Wed Jan 10 19:53:07 2024] Gonanab is surrounded by a brief feline aura.
+[Wed Jan 10 19:53:07 2024] Sawshort is surrounded by a brief feline aura.
+[Wed Jan 10 19:53:07 2024] Zabaner is surrounded by a brief feline aura.
+[Wed Jan 10 19:53:07 2024] Gann is surrounded by a brief feline aura.
+[Wed Jan 10 19:53:07 2024] Booted is surrounded by a brief feline aura.
+[Wed Jan 10 19:53:07 2024] Sawthree is surrounded by a brief feline aura.
+[Wed Jan 10 19:53:07 2024] Sawthree healed Gonanab over time for 32214 hit points by Abundant Healing LII. (Critical)
+[Wed Jan 10 19:53:08 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:53:10 2024] Sawshort begins casting Circle of Forgefire Coat.
+[Wed Jan 10 19:53:11 2024] Dulcet begins singing McVaxius' Rousing Rondo.
+[Wed Jan 10 19:53:11 2024] Sawthree begins casting Reckless Renewal.
+[Wed Jan 10 19:53:13 2024] Gonanab's skin is covered in flames.
+[Wed Jan 10 19:53:13 2024] Sawshort's skin is covered in flames.
+[Wed Jan 10 19:53:13 2024] Zabaner's skin is covered in flames.
+[Wed Jan 10 19:53:13 2024] Gann's skin is covered in flames.
+[Wed Jan 10 19:53:13 2024] Booted's skin is covered in flames.
+[Wed Jan 10 19:53:13 2024] Sawthree's skin is covered in flames.
+[Wed Jan 10 19:53:13 2024] Sawthree healed Gonanab over time for 32214 hit points by Abundant Healing LII. (Critical)
+[Wed Jan 10 19:53:15 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:53:16 2024] Sawthree begins casting Spiritual Surge.
+[Wed Jan 10 19:53:18 2024] Dulcet begins singing McVaxius' Rousing Rondo.
+[Wed Jan 10 19:53:20 2024] Sawthree healed Gonanab over time for 16107 hit points by Abundant Healing LII.
+[Wed Jan 10 19:53:21 2024] Sawthree begins casting Reckless Renewal.
+[Wed Jan 10 19:53:21 2024] Sawshort begins casting Iceflame Palisade Rk. II.
+[Wed Jan 10 19:53:21 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:53:23 2024] Gonanab is surrounded by cold flames.
+[Wed Jan 10 19:53:24 2024] Sawthree begins casting Ancient Bargain.
+[Wed Jan 10 19:53:25 2024] Dulcet begins singing McVaxius' Rousing Rondo.
+[Wed Jan 10 19:53:25 2024] Sawshort begins casting Summon Molten Komatiite Orb.
+[Wed Jan 10 19:53:26 2024] Sawthree healed Gonanab over time for 16107 hit points by Abundant Healing LII.
+[Wed Jan 10 19:53:26 2024] Sawthree winces.
+[Wed Jan 10 19:53:28 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:53:31 2024] Sawthree begins casting Spiritual Surge.
+[Wed Jan 10 19:53:31 2024] Dulcet begins singing McVaxius' Rousing Rondo.
+[Wed Jan 10 19:53:34 2024] Sawthree begins casting Talisman of the Ry'Gorr.
+[Wed Jan 10 19:53:34 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:53:35 2024] Sawshort begins casting Shield of Inescapability Rk. II.
+[Wed Jan 10 19:53:38 2024] Sawshort is protected by threads of mana.
+[Wed Jan 10 19:53:38 2024] Dulcet begins singing McVaxius' Rousing Rondo.
+[Wed Jan 10 19:53:41 2024] Dulcet begins singing Shauri's Sonorous Clouding.
+[Wed Jan 10 19:53:42 2024] Gonanab's muscles bulge with a mammoth's force.
+[Wed Jan 10 19:53:42 2024] Gonanab moves with ancestral grace.
+[Wed Jan 10 19:53:42 2024] Gonanab is strengthened by insistent spirits.
+[Wed Jan 10 19:53:42 2024] Sawthree healed Gonanab for 7554 (7688) hit points by Kromrif Focusing.
+[Wed Jan 10 19:53:42 2024] Gonanab is filled with ancestral vigor.
+[Wed Jan 10 19:53:42 2024] Gonanab begins to move faster.
+[Wed Jan 10 19:53:42 2024] Sawshort's muscles bulge with a mammoth's force.
+[Wed Jan 10 19:53:42 2024] Sawshort moves with ancestral grace.
+[Wed Jan 10 19:53:42 2024] Sawshort is filled with ancestral vigor.
+[Wed Jan 10 19:53:42 2024] Sawshort begins to move faster.
+[Wed Jan 10 19:53:42 2024] Zabaner's muscles bulge with a mammoth's force.
+[Wed Jan 10 19:53:42 2024] Zabaner moves with ancestral grace.
+[Wed Jan 10 19:53:42 2024] Zabaner is filled with ancestral vigor.
+[Wed Jan 10 19:53:42 2024] Zabaner begins to move faster.
+[Wed Jan 10 19:53:42 2024] Gann's muscles bulge with a mammoth's force.
+[Wed Jan 10 19:53:42 2024] Gann moves with ancestral grace.
+[Wed Jan 10 19:53:42 2024] Gann is filled with ancestral vigor.
+[Wed Jan 10 19:53:42 2024] Gann begins to move faster.
+[Wed Jan 10 19:53:42 2024] Booted's muscles bulge with a mammoth's force.
+[Wed Jan 10 19:53:42 2024] Booted moves with ancestral grace.
+[Wed Jan 10 19:53:42 2024] Booted is filled with ancestral vigor.
+[Wed Jan 10 19:53:42 2024] Booted begins to move faster.
+[Wed Jan 10 19:53:42 2024] Sawthree's muscles bulge with a mammoth's force.
+[Wed Jan 10 19:53:42 2024] Sawthree moves with ancestral grace.
+[Wed Jan 10 19:53:42 2024] Sawthree is strengthened by insistent spirits.
+[Wed Jan 10 19:53:42 2024] Sawthree healed himself for 4690 (7688) hit points by Kromrif Focusing.
+[Wed Jan 10 19:53:42 2024] Sawthree is filled with ancestral vigor.
+[Wed Jan 10 19:53:42 2024] Sawthree begins to move faster.
+[Wed Jan 10 19:54:35 2024] Beginning to memorize Ring of the Nexus...
+[Wed Jan 10 19:54:36 2024] You have finished memorizing Ring of the Nexus.
+[Wed Jan 10 19:54:56 2024] You begin casting Ring of the Nexus.
+[Wed Jan 10 19:55:06 2024] LOADING, PLEASE WAIT...
+[Wed Jan 10 19:55:17 2024] You have entered The Nexus.
+[Wed Jan 10 19:55:20 2024] Channels: 1=General(389), 2=Druid(23)
+[Wed Jan 10 19:55:20 2024] Channels: 1=General(390), 2=Druid(23), 3=Luclin(54)
+[Wed Jan 10 19:55:31 2024] You have completed achievement: The Nexus Traveler
+[Wed Jan 10 19:55:41 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 19:55:51 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 19:56:01 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 19:56:33 2024] LOADING, PLEASE WAIT...
+[Wed Jan 10 19:56:46 2024] You have entered The Bazaar.
+[Wed Jan 10 19:56:49 2024] Welcome to The Bazaar!
+[Wed Jan 10 19:56:49 2024] There are currently 167 traders selling a total of 11909 items in the bazaar.
+[Wed Jan 10 19:56:49 2024] Type /bazaar to begin viewing items for sale or type /trader to begin putting items up for sale.
+[Wed Jan 10 19:56:49 2024] There are 10 Buyers waiting to purchase your loot.  Type /barter to search for them, or use /buyer to set up your own Buy Lines.
+[Wed Jan 10 19:56:58 2024] You have completed achievement: The Bazaar Traveler
+[Wed Jan 10 19:56:59 2024] To begin searching for items, select a search parameter from one of the drop down menus or type in an item name in the edit box and click Find.
+[Wed Jan 10 19:58:56 2024] To begin searching for items, select a search parameter from one of the drop down menus or type in an item name in the edit box and click Find.
+[Wed Jan 10 20:00:50 2024] There are 2 Buy Lines that match the search string 'krono'.
+[Wed Jan 10 20:02:01 2024] Targeted (NPC): Gearo
+[Wed Jan 10 20:02:01 2024] Right click on the NPC to consider him.
+[Wed Jan 10 20:07:27 2024] Kahmon tells General:1, '125 SK LFG for LS missions or Hunters'
+[Wed Jan 10 20:07:45 2024] You no longer have a target.
+[Wed Jan 10 20:11:39 2024] An item has been placed in your inventory!
+[Wed Jan 10 20:15:23 2024] Lootplug tells General:1, 'WTS Krono , 6m. '
+[Wed Jan 10 20:15:24 2024] You have successfully been granted your reward for: Marketplace Purchase
+[Wed Jan 10 20:15:42 2024] You must place items in this object in order to create something new.
+[Wed Jan 10 20:17:48 2024] Targeted (NPC): Nermin
+[Wed Jan 10 20:17:48 2024] Right click on the NPC to consider him.
+[Wed Jan 10 20:19:10 2024] Targeted (Player): Reim
+[Wed Jan 10 20:19:10 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 20:21:05 2024] Cloud tells General:1, 'WTB 2 krono 9m'
+[Wed Jan 10 20:21:23 2024] Stealin tells General:1, 'I have to laugh, whos your main . You shot that 6 Mill price out there Like people been looking all day . And generally I dont say anything . But 6 mill'
+[Wed Jan 10 20:21:29 2024] It will take you about 30 seconds to prepare your camp.
+[Wed Jan 10 20:21:54 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 20:21:59 2024] Channels: 1=General(371), 2=Druid(21), 3=Luclin(46)
+[Wed Jan 10 20:21:59 2024] Welcome to EverQuest!
+[Wed Jan 10 20:21:59 2024] You have entered The Bazaar.
+[Wed Jan 10 20:22:03 2024] Welcome to The Bazaar!
+[Wed Jan 10 20:22:03 2024] There are currently 176 traders selling a total of 12697 items in the bazaar.
+[Wed Jan 10 20:22:03 2024] Type /bazaar to begin viewing items for sale or type /trader to begin putting items up for sale.
+[Wed Jan 10 20:22:03 2024] There are 10 Buyers waiting to purchase your loot.  Type /barter to search for them, or use /buyer to set up your own Buy Lines.
+[Wed Jan 10 20:22:44 2024] Stealin tells General:1, 'Glad My gen chat they still go for 3 mill - 4 mill .'
+[Wed Jan 10 20:23:46 2024] Myszarn tells General:1, 'they been trying that for a bit as of late stealin, its crazy'
+[Wed Jan 10 20:23:57 2024] Wizzypowered tells General:1, 'just don't buy them when they're overpriced, simple fix'
+[Wed Jan 10 20:24:33 2024] Rapthar tells General:1, 'shoot peeps earlier were trying for 9 mill i heard haha'
+[Wed Jan 10 20:24:35 2024] Myszarn tells General:1, 'doesnt mean we shouldnt call em out tho'
+[Wed Jan 10 20:24:58 2024] To begin searching for items, select a search parameter from one of the drop down menus or type in an item name in the edit box and click Find.
+[Wed Jan 10 20:25:01 2024] Conjuration tells General:1, 'Cardboard Tube Ornamentation'
+[Wed Jan 10 20:25:13 2024] There are 2 Buy Lines that match the search string 'krono'.
+[Wed Jan 10 20:25:25 2024] Provideher tells General:1, 'WTS Lootplug's soul, 1 krono, ps'
+[Wed Jan 10 20:26:07 2024] Wizzypowered tells General:1, 'callin them out if fine but you gotta figure if they're tryin for 6 mil they gotta be immature or just plain greedy'
+[Wed Jan 10 20:26:10 2024] Cloud tells General:1, 'looks more like a wooden stick =/'
+[Wed Jan 10 20:26:16 2024] Targeted (Player): Reim
+[Wed Jan 10 20:26:16 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 20:26:23 2024] Myszarn tells General:1, '1000PCT; greedy'
+[Wed Jan 10 20:26:52 2024] Provideher tells General:1, 'Greedy is what it is.'
+[Wed Jan 10 20:27:04 2024] Provideher tells General:1, 'WTS Krrono 7m'
+[Wed Jan 10 20:27:22 2024] Wizzypowered tells General:1, 'yea just sayin though alot of people who are greedy are also imature'
+[Wed Jan 10 20:29:13 2024] Conjuration tells General:1, 'WTS Krono 7.5m, or 16m for 2'
+[Wed Jan 10 20:29:21 2024] Cloud tells General:1, 'what is considered imature for EQ? 40 year old, 40 year old,  20 year, old or 10 year old?'
+[Wed Jan 10 20:29:30 2024] Cloud tells General:1, '30*'
+[Wed Jan 10 20:29:38 2024] Myszarn tells General:1, 'maturity is mindset not age'
+[Wed Jan 10 20:29:57 2024] Wizzypowered tells General:1, 'agree'
+[Wed Jan 10 20:30:00 2024] Cloud tells General:1, 'yea but at the same time it is an age range'
+[Wed Jan 10 20:30:27 2024] Cloud tells General:1, 'what is imature to a 90 year old is not what a 40 year old may consider imature'
+[Wed Jan 10 20:30:28 2024] Myszarn tells General:1, 'id say theres a correlating age range, but not always'
+[Wed Jan 10 20:31:51 2024] Stealin tells General:1, 'My bad didnt mean to start all this Folks.'
+[Wed Jan 10 20:32:08 2024] You say, 'it wouldn't be an mmo general chat if it wasn't a discussion'
+[Wed Jan 10 20:32:25 2024] You tell General:1, 'it wouldn't be an mmo general chat if this wasn't a discussion'
+[Wed Jan 10 20:32:26 2024] Cloud tells General:1, 'chat was boring i was trying to give myself something to do'
+[Wed Jan 10 20:32:28 2024] Rojomago tells General:1, 'did they ever make monster summoning worth a shit?'
+[Wed Jan 10 20:32:54 2024] Siluuette tells General:1, 'but how old are you????? gotta settle this debate.'
+[Wed Jan 10 20:33:05 2024] Myszarn tells General:1, 'infinite'
+[Wed Jan 10 20:33:28 2024] Stealin tells General:1, 'Like Rage pet ?  Yeah they backstab so make sure to set up behind a mob with those'
+[Wed Jan 10 20:33:29 2024] Cloud tells General:1, 'i am in the 30s'
+[Wed Jan 10 20:34:04 2024] Rojomago tells General:1, 'rage pet?'
+[Wed Jan 10 20:34:42 2024] Lootplug tells General:1, 'WTS Krono , 6m. 19M if you're TR or Providher'
+[Wed Jan 10 20:35:12 2024] Cloud tells General:1, 'wtf i start the shit and i can still pay 6m?'
+[Wed Jan 10 20:35:19 2024] Myszarn tells General:1, 'someone got a little butthurt'
+[Wed Jan 10 20:35:26 2024] Lootplug tells General:1, 'werent you offering 4.5? lol'
+[Wed Jan 10 20:35:44 2024] You no longer have a target.
+[Wed Jan 10 20:35:45 2024] Cloud tells General:1, 'no i was offering 9m for 2'
+[Wed Jan 10 20:35:52 2024] Cloud tells General:1, 'i never once said 4.5'
+[Wed Jan 10 20:35:57 2024] Wizzypowered tells General:1, '8/popcorn time'
+[Wed Jan 10 20:36:00 2024] Targeted (NPC): Archaeologist Flottwit
+[Wed Jan 10 20:36:00 2024] Right click on the NPC to consider him.
+[Wed Jan 10 20:36:00 2024] Lootplug tells General:1, 'yeah, so 4.5'
+[Wed Jan 10 20:36:08 2024] Cloud tells General:1, 'if you only had one i would only pay 4m'
+[Wed Jan 10 20:36:19 2024] Targeted (Player): Reim
+[Wed Jan 10 20:36:19 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 20:36:20 2024] Targeted (NPC): Archaeologist Flottwit
+[Wed Jan 10 20:36:20 2024] Right click on the NPC to consider him.
+[Wed Jan 10 20:36:46 2024] Cloud tells General:1, '500k for my time in having to run to you with the money and count out 4.5m which is so much more work than counting 9m out'
+[Wed Jan 10 20:37:00 2024] Neyturi tells General:1, 'looks like you could not pull a needle outa lootplug's arse with a forklift'
+[Wed Jan 10 20:37:33 2024] Neyturi tells General:1, 'thats a tight clencher there'
+[Wed Jan 10 20:38:06 2024] Myszarn tells General:1, 'more like buttplug'
+[Wed Jan 10 20:38:13 2024] Neyturi tells General:1, 'lol'
+[Wed Jan 10 20:38:19 2024] Lootplug tells General:1, 'you'd know =P '
+[Wed Jan 10 20:38:22 2024] Stealin tells General:1, 'Dude is funny. My bad man. I wont stir the pot. '
+[Wed Jan 10 20:38:33 2024] Myszarn tells General:1, 'i wouldnt'
+[Wed Jan 10 20:38:52 2024] Lootplug tells General:1, 'Stir all ya want. Cant offend me =) I'll be here when you need 1 or 10 tho =P '
+[Wed Jan 10 20:39:11 2024] Myszarn tells General:1, 'i dont think anyone needs any at that price'
+[Wed Jan 10 20:39:55 2024] Lootplug tells General:1, 'keep on scrolling = P'
+[Wed Jan 10 20:40:30 2024] Cloud tells General:1, 'i will sell a krono for 4m if you rub my feet too'
+[Wed Jan 10 20:40:31 2024] Stealin tells General:1, 'You wont be there for me Sir . Like I said ( My Gen Chat ) They still go for 3-4 mill . '
+[Wed Jan 10 20:41:18 2024] Lootplug tells Luclin:3, 'Sorry i offended you Stealin. Old age is tough huh? Kids on your lawn too?'
+[Wed Jan 10 20:41:19 2024] Wizzypowered tells General:1, 'anyone know the command if any for stopping the dragging of someones corpse please?'
+[Wed Jan 10 20:41:24 2024] Rojomago tells General:1, 'wow they didnt add a new Monster Summoning till EoK after SoF lmao'
+[Wed Jan 10 20:41:30 2024] Gillenhaul tells General:1, 'Maybe I, someone who hasn't played EQ in about ten years, can help mediate this argument. What's going on here, friends?'
+[Wed Jan 10 20:41:34 2024] Lootplug tells General:1, '/corpsedrop'
+[Wed Jan 10 20:41:35 2024] Rojomago tells General:1, 'uhh /corpsedrop?'
+[Wed Jan 10 20:41:36 2024] Striings tells General:1, '/corpsedrop'
+[Wed Jan 10 20:41:40 2024] Wizzypowered tells General:1, 'ty vm'
+[Wed Jan 10 20:41:49 2024] Belisama tells General:1, 'I took a ten year break.'
+[Wed Jan 10 20:42:01 2024] Belisama tells General:1, 'Guess what? General chat didnt change at all.'
+[Wed Jan 10 20:42:13 2024] Belisama tells General:1, 'War never changes.'
+[Wed Jan 10 20:42:17 2024] Gillenhaul tells General:1, 'That's bold and fair'
+[Wed Jan 10 20:42:19 2024] Lootplug tells General:1, 'TLDR, some kids got their feelings hurt because they cant afford game time kronos lol'
+[Wed Jan 10 20:42:23 2024] Myszarn tells General:1, 'idk if id call this a war'
+[Wed Jan 10 20:42:31 2024] Myszarn tells General:1, 'can doesnt mean they should'
+[Wed Jan 10 20:42:37 2024] Myszarn tells General:1, 'or that its worth the proposed value'
+[Wed Jan 10 20:42:42 2024] You no longer have a target.
+[Wed Jan 10 20:42:44 2024] Ojay tells General:1, 'i took like a 22 year break or something and I think general chat is much nicer than it was back in the day. :)'
+[Wed Jan 10 20:42:49 2024] Striings tells General:1, 'shhh. they should totally take this to the arena!'
+[Wed Jan 10 20:43:02 2024] Wizzypowered tells General:1, '*blows trumpet Let the trolling begin!'
+[Wed Jan 10 20:43:08 2024] Stealin tells General:1, 'yeah Id love that'
+[Wed Jan 10 20:43:36 2024] Cloud tells General:1, 'you do realize general chat has changed in 22 years right?'
+[Wed Jan 10 20:43:43 2024] Cloud tells General:1, 'i mean 22  years ago general chat didn't exist'
+[Wed Jan 10 20:43:46 2024] Stealin tells General:1, 'As a matter of fact Ill take the chance and go sit in the middle of arena and wait for what ever '
+[Wed Jan 10 20:43:49 2024] Cloud tells General:1, 'so it must have changed a little'
+[Wed Jan 10 20:43:51 2024] Azulmago tells General:1, 'it really hasnt lol'
+[Wed Jan 10 20:44:05 2024] Azulmago tells General:1, 'i dont think its meant in that literal of a sense'
+[Wed Jan 10 20:44:06 2024] Wizzypowered tells General:1, 'it has a bit not entirely though'
+[Wed Jan 10 20:44:10 2024] Neyturi tells General:1, 'i said orc hill was camped !!'
+[Wed Jan 10 20:44:16 2024] Oakwynd.Froto tells General:1, 'Five Rings still a guild over here?'
+[Wed Jan 10 20:44:18 2024] Wizzypowered tells General:1, 'lol'
+[Wed Jan 10 20:44:35 2024] Myszarn tells General:1, 'it exists froto but its dead'
+[Wed Jan 10 20:44:37 2024] Drizerker tells General:1, 'anyone selling memoryforged 2hander for plat? PST if s'
+[Wed Jan 10 20:44:46 2024] Oakwynd.Froto tells General:1, 'doh'
+[Wed Jan 10 20:46:43 2024] Stealin tells General:1, 'i got a Krono for person that gets the kill shot on me'
+[Wed Jan 10 20:47:19 2024] Myszarn tells General:1, 'damnit'
+[Wed Jan 10 20:47:46 2024] Belisama tells General:1, 'There is only one way to settle this. Cloud and Stealin both have to Fight the named Charka, with all those hitpoints in pallomen, and see who has the best time in killing.'
+[Wed Jan 10 20:47:53 2024] Cloud tells General:1, 'does it count if the kill shot is an npc friend of the person?'
+[Wed Jan 10 20:48:02 2024] Neyturi tells General:1, '@t'
+[Wed Jan 10 20:48:10 2024] Neyturi tells General:1, 'Charka'
+[Wed Jan 10 20:48:26 2024] Stealin tells General:1, 'Jump me , i dont care '
+[Wed Jan 10 20:48:27 2024] Cloud tells General:1, 'only 900m'
+[Wed Jan 10 20:49:39 2024] You have successfully been granted your reward for: Marketplace Purchase
+[Wed Jan 10 20:50:11 2024] Cloud tells General:1, 'wait why am i fighting stealin?'
+[Wed Jan 10 20:50:25 2024] Heavycaulk tells General:1, 'the mob has spoken'
+[Wed Jan 10 20:50:47 2024] Wizzypowered tells General:1, 'because you can?'
+[Wed Jan 10 20:51:32 2024] Cloud tells General:1, 'ya finally another Bar Tab: Gunther Boarsbane drop'
+[Wed Jan 10 20:51:47 2024] Conjuration tells General:1, 'Tweak vs, Craig rules'
+[Wed Jan 10 20:52:34 2024] You forget Enveloping Roots.
+[Wed Jan 10 20:53:08 2024] It will take you about 30 seconds to prepare your camp.
+[Wed Jan 10 20:53:33 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 20:53:40 2024] Channels: 1=General(364), 2=Druid(19), 3=Luclin(51)
+[Wed Jan 10 20:53:40 2024] Welcome to EverQuest!
+[Wed Jan 10 20:53:40 2024] You have entered The Bazaar.
+[Wed Jan 10 20:53:43 2024] Welcome to The Bazaar!
+[Wed Jan 10 20:53:43 2024] There are currently 189 traders selling a total of 13776 items in the bazaar.
+[Wed Jan 10 20:53:43 2024] Type /bazaar to begin viewing items for sale or type /trader to begin putting items up for sale.
+[Wed Jan 10 20:53:43 2024] There are 10 Buyers waiting to purchase your loot.  Type /barter to search for them, or use /buyer to set up your own Buy Lines.
+[Wed Jan 10 20:54:51 2024] Stealin tells General:1, 'I'm just trying to come up 10 or so krono is all . ( Open Invitation ) No name on it except Lootplug or his main . Rules are Krono for Krono . Say you bring 3 people and I kill you all  ( magically I get 3 Krono ) Will do 100k for 100k  . Dont care just wanna punch someone in the face'
+[Wed Jan 10 20:56:49 2024] Cloud tells General:1, 'so what about a 40kr duel? 100k if you want to come watch!'
+[Wed Jan 10 20:56:55 2024] Stealin tells General:1, 'I kill Guildies too Dont be Shy '
+[Wed Jan 10 20:57:08 2024] Targeted (NPC): Faeroi
+[Wed Jan 10 20:57:08 2024] Right click on the NPC to consider him.
+[Wed Jan 10 20:58:05 2024] Booted tells General:1, 'side bets aloud?'
+[Wed Jan 10 20:58:12 2024] LOADING, PLEASE WAIT...
+[Wed Jan 10 20:58:37 2024] You have entered The Nexus.
+[Wed Jan 10 20:58:45 2024] Stealin tells General:1, 'Im here  for the last 4 minutes or so. '
+[Wed Jan 10 20:59:08 2024] A Mystic Voice says, 'One minute till teleportation to Odus, Antonica, Faydwer, and Kunark. Please be prepared to step onto the teleport pad.'
+[Wed Jan 10 20:59:44 2024] A Mystic Voice says, 'The portals to Odus, Antonica, Faydwer, and Kunark are now active. Please stand on the pad and you will be teleported shortly. Come back soon.'
+[Wed Jan 10 20:59:47 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 20:59:57 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:00:07 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:00:08 2024] Stealin tells General:1, '2 Buddy Sk's come in and HT me real quick , n get back to the grind a krono richer . Sounds plausable'
+[Wed Jan 10 21:01:27 2024] Myszarn tells General:1, 'was thinking about it lol'
+[Wed Jan 10 21:01:33 2024] A Mystic Voice says, 'In approximately fifteen minutes the portals will become active and will transport you back to Odus, Antonica, Faydwer, and Kunark.  In eight minutes the portal to Velious will become active.'
+[Wed Jan 10 21:01:52 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:02:00 2024] It will take you about 30 seconds to prepare your camp.
+[Wed Jan 10 21:02:02 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:02:04 2024] You abandon your preparations to camp.
+[Wed Jan 10 21:02:12 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:02:44 2024] Stealin tells General:1, 'Here kitty kitty kitty . '
+[Wed Jan 10 21:03:48 2024] Cloud tells General:1, 'all than'
+[Wed Jan 10 21:03:57 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:04:07 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:04:17 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:05:33 2024] A Mystic Voice says, 'The portal to Velious will become active in three minutes.  Please begin gathering in the portal area.'
+[Wed Jan 10 21:06:02 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:06:12 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:06:22 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:07:04 2024] A Mystic Voice says, 'One minute till teleportation to Velious.  Please be prepared to step onto the teleport pad.'
+[Wed Jan 10 21:07:40 2024] A Mystic Voice says, 'The portal to Velious is now active.  Please stand on the pad and you will be teleported shortly.'
+[Wed Jan 10 21:08:05 2024] Rested tells General:1, 'LoL'
+[Wed Jan 10 21:08:07 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:08:16 2024] The Velious Spires begins casting Journey: Velious.
+[Wed Jan 10 21:08:17 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:08:22 2024] Kirkisx tells General:1, 'wts Scuffed Journeyman's Rucksackx2/Scuffed Weapon Crate of the Mercenaryx2'
+[Wed Jan 10 21:08:24 2024] Kirkisx tells General:1, 'Suit of Dark Elf Chain/Suit of Dark Elf Cloth/Suit of Dark Elf Plate'
+[Wed Jan 10 21:08:27 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:08:28 2024] Kirkisx tells General:1, 'Wrapped Visage of a Shissar Priest'
+[Wed Jan 10 21:09:04 2024] A Mystic Voice says, 'The portals to Odus, Antonica, Faydwer, and Kunark will become active in five minutes. Please begin gathering in the portal areas.'
+[Wed Jan 10 21:09:47 2024] Reading UI data from UIFiles\drakah_intg_krome directory...
+[Wed Jan 10 21:09:49 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 21:10:05 2024] Targeted (Player): Reim
+[Wed Jan 10 21:10:05 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:10:12 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:10:13 2024] You no longer have a target.
+[Wed Jan 10 21:10:22 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:10:32 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:10:41 2024] A Mystic Voice says, 'As a reminder, the portals to Odus, Antonica, Faydwer, and Kunark will become active in three minutes.'
+[Wed Jan 10 21:11:36 2024] Rested tells General:1, 'In the PvP world ShadowKnights are concidered Undead. 2 Paladins could go in there and make quick work of Stealin . '
+[Wed Jan 10 21:12:14 2024] A Mystic Voice says, 'One minute till teleportation to Odus, Antonica, Faydwer, and Kunark. Please be prepared to step onto the teleport pad.'
+[Wed Jan 10 21:12:17 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:12:27 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:12:31 2024] Kirkisx tells General:1, 'he doiesnt want me there'
+[Wed Jan 10 21:12:37 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:12:39 2024] Targeted (NPC): Defender Karrik
+[Wed Jan 10 21:12:39 2024] Right click on the NPC to consider her.
+[Wed Jan 10 21:12:51 2024] A Mystic Voice says, 'The portals to Odus, Antonica, Faydwer, and Kunark are now active. Please stand on the pad and you will be teleported shortly. Come back soon.'
+[Wed Jan 10 21:13:11 2024] You no longer have a target.
+[Wed Jan 10 21:13:14 2024] Stealin tells General:1, 'I will double it. I wish 2 Pallies would step in this circle . GDI im here '
+[Wed Jan 10 21:13:27 2024] The Odus Spire begins casting Journey: Tox.
+[Wed Jan 10 21:13:40 2024] Targeted (NPC): Defender Karrik
+[Wed Jan 10 21:13:40 2024] Right click on the NPC to consider her.
+[Wed Jan 10 21:13:50 2024] Myszarn tells General:1, 'well now it just sounds like a kink'
+[Wed Jan 10 21:14:22 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:14:32 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:14:39 2024] A Mystic Voice says, 'In approximately fifteen minutes the portals will become active and will transport you back to Odus, Antonica, Faydwer, and Kunark.  In eight minutes the portal to Velious will become active.'
+[Wed Jan 10 21:14:42 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:15:55 2024] Reading UI data from UIFiles\default directory...
+[Wed Jan 10 21:15:56 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 21:16:09 2024] Reading UI data from UIFiles\drakah_intg_krome directory...
+[Wed Jan 10 21:16:11 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 21:16:27 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:16:29 2024] Reading UI data from UIFiles\default directory...
+[Wed Jan 10 21:16:30 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 21:16:37 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:16:47 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:17:02 2024] Reading UI data from UIFiles\drakah_intg_krome directory...
+[Wed Jan 10 21:17:04 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 21:17:38 2024] Targeted (NPC): Defender Narthem
+[Wed Jan 10 21:17:38 2024] Right click on the NPC to consider him.
+[Wed Jan 10 21:18:32 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:18:38 2024] Targeted (Player): Reim
+[Wed Jan 10 21:18:38 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:18:40 2024] You begin casting Chloroplast.
+[Wed Jan 10 21:18:40 2024] A Mystic Voice says, 'The portal to Velious will become active in three minutes.  Please begin gathering in the portal area.'
+[Wed Jan 10 21:18:42 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:18:45 2024] You begin to regenerate.
+[Wed Jan 10 21:18:45 2024] You have become better at Specialize Alteration! (162)
+[Wed Jan 10 21:18:52 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:19:15 2024] Targeted (Player): Reim
+[Wed Jan 10 21:19:15 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:19:16 2024] Cloud tells General:1, 'i always thought stealin was a rog =/'
+[Wed Jan 10 21:19:29 2024] Targeted (Player): Reim
+[Wed Jan 10 21:19:29 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:19:35 2024] Cloud tells General:1, 'rogue going around stealin things'
+[Wed Jan 10 21:19:39 2024] Targeted (Player): Reim
+[Wed Jan 10 21:19:39 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:19:51 2024] Cloud tells General:1, 'guess i never /who all him before'
+[Wed Jan 10 21:19:53 2024] Myszarn tells General:1, 'stealin souls'
+[Wed Jan 10 21:20:11 2024] A Mystic Voice says, 'One minute till teleportation to Velious.  Please be prepared to step onto the teleport pad.'
+[Wed Jan 10 21:20:37 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:20:47 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:20:47 2024] A Mystic Voice says, 'The portal to Velious is now active.  Please stand on the pad and you will be teleported shortly.'
+[Wed Jan 10 21:20:50 2024] Cloud tells General:1, 'cloud = bard = someone who is high all the time right?'
+[Wed Jan 10 21:20:57 2024] You no longer have a target.
+[Wed Jan 10 21:20:57 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:21:19 2024] Serghee says, 'Hail, Jayson Bri`Tian'
+[Wed Jan 10 21:21:33 2024] Targeted (NPC): Rinwan
+[Wed Jan 10 21:21:33 2024] Right click on the NPC to consider him.
+[Wed Jan 10 21:21:43 2024] Stealin tells General:1, 'yeah im a rogue - this junk Sk is my persona'
+[Wed Jan 10 21:21:55 2024] Myszarn tells General:1, 'when arent you? but ik your a bard cuz ik your a bard so i dont think much else'
+[Wed Jan 10 21:22:12 2024] A Mystic Voice says, 'The portals to Odus, Antonica, Faydwer, and Kunark will become active in five minutes. Please begin gathering in the portal areas.'
+[Wed Jan 10 21:22:12 2024] You no longer have a target.
+[Wed Jan 10 21:22:38 2024] Targeted (Player): Reim
+[Wed Jan 10 21:22:38 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:22:42 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:22:52 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:23:02 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:23:49 2024] A Mystic Voice says, 'As a reminder, the portals to Odus, Antonica, Faydwer, and Kunark will become active in three minutes.'
+[Wed Jan 10 21:24:47 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:24:50 2024] Reading UI data from UIFiles\default directory...
+[Wed Jan 10 21:24:51 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 21:24:57 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:25:07 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:25:23 2024] A Mystic Voice says, 'One minute till teleportation to Odus, Antonica, Faydwer, and Kunark. Please be prepared to step onto the teleport pad.'
+[Wed Jan 10 21:26:13 2024] You are not currently assigned to an adventure.
+[Wed Jan 10 21:26:17 2024] A Mystic Voice says, 'The portals to Odus, Antonica, Faydwer, and Kunark are now active. Please stand on the pad and you will be teleported shortly. Come back soon.'
+[Wed Jan 10 21:26:52 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:27:00 2024] Targeted (Player): Reim
+[Wed Jan 10 21:27:00 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:27:02 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:27:05 2024] Targeted (Player): Reim
+[Wed Jan 10 21:27:05 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:27:12 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:27:48 2024] A Mystic Voice says, 'In approximately fifteen minutes the portals will become active and will transport you back to Odus, Antonica, Faydwer, and Kunark.  In eight minutes the portal to Velious will become active.'
+[Wed Jan 10 21:28:57 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:29:07 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:29:17 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:29:26 2024] Targeted (Player): Reim
+[Wed Jan 10 21:29:26 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:30:38 2024] Targeted (Player): Reim
+[Wed Jan 10 21:30:38 2024] Right click on yourself to bring up your own inspect window. Use the /toggleinspect command to enable or disable right-click inspecting. You can also enable Click Through Self in the Options Window to stop clicking on yourself.
+[Wed Jan 10 21:30:39 2024] You no longer have a target.
+[Wed Jan 10 21:31:02 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 20 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:31:12 2024] A Mystic Voice says, 'The portal to Lceanium will become active in 10 seconds. Please gather in the portal area and make sure you have your Spire Stone of Lceanium on your person.
+[Wed Jan 10 21:31:22 2024] A Mystic Voice says, 'The portal to Lceanium is now active. Please stand on the pad and you will be teleported shortly. Enjoy your time in the city.'
+[Wed Jan 10 21:31:49 2024] A Mystic Voice says, 'The portal to Velious will become active in three minutes.  Please begin gathering in the portal area.'
+[Wed Jan 10 21:32:15 2024] It will take you about 30 seconds to prepare your camp.
