@@ -21,6 +21,5 @@ fn main() {
     events::keyboard::send(&EventType::KeyRelease(Key::KeyS));
     events::keyboard::send(&EventType::KeyPress(Key::Space));
     events::keyboard::send(&EventType::KeyRelease(Key::Space));
-
-    // events::keyboard::main();
+    events::keyboard::send(&EventType::KeyPress(Key::Return));
 }

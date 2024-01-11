@@ -8,4 +8,16 @@ edition = "2021"
 [dependencies]
 clap = { version = "4.4.7", features = ["derive", "debug"] }
 rdev = "0.5.3"
-tokio = "1.33.0"
+tokio = { version = "1.33.0", features = ["full"] }
+
+[[bin]]
+name = "eqtools"
+path = "src/main.rs"
+
+[[bin]]
+name = "eqt-server"
+path = "src/server/main.rs"
+
+[[bin]]
+name = "eqt-client"
+path = "src/client/main.rs"

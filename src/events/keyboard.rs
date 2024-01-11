@@ -1,5 +1,12 @@
-use rdev::{listen, Event, simulate, Button, EventType, Key, SimulateError};
+use rdev::{listen, Event, simulate, EventType, SimulateError};
 use std::{thread, time};
+
+pub fn main() {
+// This will block.
+    if let Err(error) = listen(callback) {
+        println!("Error: {:?}", error)
+    }
+}
 
 pub fn send(event_type: &EventType) {
     let delay = time::Duration::from_millis(20);
@@ -13,12 +20,6 @@ pub fn send(event_type: &EventType) {
     thread::sleep(delay);
 }
 
-pub fn main() {
-// This will block.
-    if let Err(error) = listen(callback) {
-        println!("Error: {:?}", error)
-    }
-}
 
 fn handle_request(req: String) {
     println!("User wrote {:?}", req);
