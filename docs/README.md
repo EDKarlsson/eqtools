@@ -1,6 +1,14 @@
-# Class Information
+# Design
 
-## Classes
+## Roadmap
+
+- [Roadmap](ROADMAP.md)
+
+## Design
+
+- [EQ Tools Design](design/README.md)
+
+## Class Information
 
 - [Classes](https://everquest.allakhazam.com/wiki/EQ:Classes/)
 

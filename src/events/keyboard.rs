@@ -1,4 +1,5 @@
-use rdev::{listen, Event, simulate, EventType, SimulateError};
+#![allow(unused)]
+use rdev::{listen, Event, simulate, Button, EventType, Key, SimulateError};
 use std::{thread, time};
 
 pub fn main() {
