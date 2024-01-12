@@ -3,7 +3,15 @@ use rdev::{listen, Event, simulate, Button, EventType, Key, SimulateError};
 use std::{thread, time};
 
 pub fn main() {
-// This will block.
+    // events::keyboard::send(&EventType::KeyPress(Key::KeyS));
+    // events::keyboard::send(&EventType::KeyRelease(Key::KeyS));
+    // events::keyboard::send(&EventType::KeyPress(Key::Space));
+    // events::keyboard::send(&EventType::KeyRelease(Key::Space));
+    // events::keyboard::send(&EventType::KeyPress(Key::Return));
+
+    // events::keyboard::main();
+
+    // This will block.
     if let Err(error) = listen(callback) {
         println!("Error: {:?}", error)
     }
