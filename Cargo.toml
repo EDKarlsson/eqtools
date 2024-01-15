@@ -10,12 +10,12 @@ name = "eqtools"
 path = "src/main.rs"
 
 [[bin]]
-name = "eqt-server"
-path = "src/server/main.rs"
+name = "server"
+path = "src/sandbox/server/main.rs"
 
-[[bin]]
-name = "eqt-client"
-path = "src/client/main.rs"
+#[[bin]]
+#name = "eqt-client"
+#path = "src/client/main.rs"
 
 [dependencies]
 async-std = { version = "1.12", features = ["attributes"] }

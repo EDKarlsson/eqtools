@@ -41,8 +41,8 @@ fn handle_connection(mut stream: TcpStream) -> std::io::Result<()>{
         .take_while(|line| !line.is_empty())
         .collect();
     println!("Request: {:#?}", http_request);
-    let s: &[u8] = &[1];
-    let res = stream.write(s)?;
+    let _s: &[u8] = &[1];
+    // let _res = stream.write(s)?;
     let res = stream.write(&[1])?;
     println!("Response: {:#?}", res);
     Ok(())
