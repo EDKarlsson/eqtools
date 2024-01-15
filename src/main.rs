@@ -8,20 +8,22 @@ mod sandbox;
 mod parser;
 mod logger;
 
-fn main() {
+fn main() -> std::io::Result<()> {
     let args: Vec<String> = env::args().collect();
 
     // This will be replaced by a config file or a commandline argument
     let file_path = "/Users/dank/git/edkarlsson/eqtools/resources/example_logs/test_eqlog.txt";
-
-    println!("File path: {file_path}");
+    let path = env::current_dir().unwrap();
+    println!("File path: {file_path}, current dir: {:?}", path);
     if &args[1].to_lowercase() == "logger" {
         println!("Starting test logger");
         // Read test log file and write each line stepwise using enter to proceed
-        start_logger(file_path);
+        let log_file = format!("{:?}/{}", path, "eq_log_file.txt");
+        let _ = start_logger(file_path, log_file.as_str());
     } else {
         println!("Starting parser");
     }
+    Ok(())
 }
 
 /*
