@@ -5,6 +5,7 @@ use std::path::Path;
 
 // Pseudo Logger for testing
 pub fn start_logger(file_path: &str, output_file: &str) -> io::Result<()> {
+    println!("Starting Test Logger");
     if let Ok(lines) = read_lines(file_path) {
         let mut log_file = File::open(output_file)?;
         let mut user_input= String::new();
@@ -14,6 +15,7 @@ pub fn start_logger(file_path: &str, output_file: &str) -> io::Result<()> {
             log_file.write(line.as_ref())?;
         }
     }
+    println!("Done writing");
     Ok(())
 }
 
