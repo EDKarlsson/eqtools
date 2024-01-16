@@ -21,6 +21,7 @@ path = "src/sandbox/server/main.rs"
 async-std = { version = "1.12", features = ["attributes"] }
 async-trait = "0.1"
 clap = { version = "4.4.7", features = ["derive", "debug"] }
+ctrlc = { version = "3.4.2", features = ["termination"] }
 futures = "0.3.29"
 libp2p = { version = "0.53.1", features = [ "async-std", "dns", "gossipsub", "identify", "macros", "mdns", "noise", "ping", "quic", "relay", "rendezvous", "tcp", "tokio", "tokio", "yamux"] }
 rdev = "0.5.3"
