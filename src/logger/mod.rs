@@ -22,8 +22,8 @@ pub fn start_logger(file_path: PathBuf, output_file: PathBuf) -> io::Result<()> 
                     panic!("couldn't write to {}: {}", op_display, why)
                 }
                 Ok(_) => {
-                    let _char = line.pop();
                     io::stdout().flush().unwrap();
+                    let _char = line.pop();
                     print!("{i}: {}", line)
                 }
             }
