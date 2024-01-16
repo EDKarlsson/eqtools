@@ -1,6 +1,6 @@
 use std::fs::File;
 use std::io;
-use std::io::{BufRead, Write};
+use std::io::{Read, BufRead, Write};
 use std::path::{Path, PathBuf};
 
 // Pseudo Logger for testing
@@ -13,18 +13,17 @@ pub fn start_logger(file_path: PathBuf, output_file: PathBuf) -> io::Result<()> 
             Ok(log_file) => log_file,
         };
 
-        let mut user_input = String::new();
         for (i, mut line) in lines.flatten().enumerate() {
-            io::stdin().read_line(&mut user_input)?;
+            io::stdout().flush().unwrap();
+            io::stdin().read(&mut [0]).unwrap();
             line.push('\n');
             match log_file.write_all(line.as_bytes()) {
                 Err(why) => {
                     panic!("couldn't write to {}: {}", op_display, why)
                 }
                 Ok(_) => {
-                    io::stdout().flush().unwrap();
                     let _char = line.pop();
-                    print!("{i}: {}", line)
+                    print!("{i}: {}", line);
                 }
             }
         }

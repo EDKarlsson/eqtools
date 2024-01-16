@@ -2,6 +2,7 @@
 
 use std::env;
 use std::path::PathBuf;
+use tokio::signal;
 
 use crate::logger::start_logger;
 use crate::parser::read_log_file;
@@ -19,6 +20,7 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
     let file_path: PathBuf = [cur_dir.to_str().unwrap(), "resources", "test_eqlog.txt"].iter().collect();
     let log_file: PathBuf = [cur_dir.to_str().unwrap(), "out", "eq_log_file.txt"].iter().collect();
 
+    // TODO: Add a sigint catch
     println!("Current dir: {}\nFile path: {}", cur_dir.display(), file_path.display());
 
     if &args[1].to_lowercase() == "logger" {
@@ -31,5 +33,9 @@ async fn main() -> Result<(), Box<dyn std::error::Error>> {
             Err(_) => println!("Error"),
         }
     }
+    // TODO: Sigint-catch should rotate the logs to make parsing easier with each play session
+    signal::ctrl_c().await?;
+    println!("ctrl-c received");
     Ok(())
+
 }
