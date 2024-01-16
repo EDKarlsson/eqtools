@@ -13,9 +13,9 @@ path = "src/main.rs"
 name = "server"
 path = "src/sandbox/server/main.rs"
 
-#[[bin]]
-#name = "eqt-client"
-#path = "src/client/main.rs"
+[[bin]]
+name = "logger"
+path = "src/logger/main.rs"
 
 [dependencies]
 async-std = { version = "1.12", features = ["attributes"] }

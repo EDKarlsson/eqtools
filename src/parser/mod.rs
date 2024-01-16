@@ -2,7 +2,7 @@ use std::{fs, io};
 use std::io::{Read, Seek, SeekFrom, Write};
 use std::path::PathBuf;
 
-pub fn read_log_file(file_path: PathBuf) -> io::Result<()> {
+pub fn read_log_file(file_path: PathBuf) -> Result<(), Box<dyn std::error::Error>> {
     let mut file = fs::File::open(file_path).unwrap();
     let mut contents = Vec::new();
     let mut position = 0;
@@ -17,7 +17,12 @@ pub fn read_log_file(file_path: PathBuf) -> io::Result<()> {
 
         io::stdout().flush().unwrap();
         if !line.is_empty() {
-            // io::stdin().read(&mut [0]).unwrap();
+            match line.as_str() {
+                "nicolascagefanclub" => {
+                    println!("Found chat");
+                },
+                _ => { }
+            }
             println!("{count}:{}", line.trim_end());
             count+=1;
         }
