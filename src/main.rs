@@ -1,5 +1,7 @@
 #![allow(dead_code)]
+
 use std::env;
+use std::path::PathBuf;
 
 use crate::logger::start_logger;
 
@@ -11,16 +13,23 @@ fn main() -> std::io::Result<()> {
     let args: Vec<String> = env::args().collect();
 
     // This will be replaced by a config file or a commandline argument
-    let file_path = "/Users/dank/git/edkarlsson/eqtools/resources/example_logs/test_eqlog.txt";
-    let path = env::current_dir().unwrap();
-    println!("File path: {file_path}, current dir: {:?}", path);
+    // Macbook
+    // let file_path = "/Users/dank/git/edkarlsson/eqtools/resources/example_logs/test_eqlog.txt";
+    let cur_dir = env::current_dir().unwrap();
+    /*    let file_path = Path::new(".")
+            .join("resources")
+            .join("example_logs")
+            .join("test_eqlog")
+            .set_extension("txt");
+    */
+    let file_path: PathBuf = [cur_dir.to_str().unwrap(), "resources", "test_eqlog.txt"].iter().collect();
+
+    println!("Current dir: {}\nFile path: {}", cur_dir.display(), file_path.display());
 
     if &args[1].to_lowercase() == "logger" {
-        println!("Starting test logger");
         // Read test log file and write each line stepwise using enter to proceed
-        let log_file = format!("{}/eq_log_file.txt", path.to_str().unwrap());
-        println!("Test output log file: {}", log_file);
-        let _ = start_logger(file_path, log_file.as_str());
+        let log_file: PathBuf = [cur_dir.to_str().unwrap(), "out", "eq_log_file.txt"].iter().collect();
+        let _ = start_logger(file_path, log_file);
     } else {
         println!("Starting parser");
     }
