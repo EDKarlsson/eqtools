@@ -7,6 +7,7 @@ pub fn read_log_file(file_path: PathBuf) -> Result<(), Box<dyn std::error::Error
     let mut contents = Vec::new();
     let mut position = 0;
     let mut count = 1;
+    let key_phrase = "tells nicolascagefanclub";
 
     loop {
         contents.truncate(0);
