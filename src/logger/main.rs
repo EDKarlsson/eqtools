@@ -50,16 +50,14 @@ async fn main() -> io::Result<()> {
 
         for (i, mut line) in lines.flatten().enumerate() {
             // Allows to step through the log file by reading input
-            io::stdout().flush().unwrap();
-            io::stdin().read(&mut [0]).unwrap();
-            line.push('\n');
+            io::stdin().read_line(&mut String::new()).unwrap();
             match log_file.write_all(line.as_bytes()) {
                 Err(why) => {
                     panic!("couldn't write to {}: {}", op_display, why)
                 }
                 Ok(_) => {
-                    let _char = line.pop();
-                    print!("{i}: {}", line);
+                    print!("{i}: {}", line.trim());
+                    io::stdout().flush().unwrap();
                 }
             }
         }
